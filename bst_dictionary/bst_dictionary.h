@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 // Binary search tree node
 typedef struct tree_node* tree_pointer;
 typedef struct tree_node {
